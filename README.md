@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cursor Animation
 
 This project demonstrates a simple yet visually appealing cursor animation using HTML, CSS, and JavaScript. The animation replaces the default cursor with a custom glowing effect that follows the user's mouse movements. Additionally, the cursor disappears after a few seconds of inactivity.
@@ -47,3 +48,7 @@ This project works on modern web browsers that support CSS animations and JavaSc
 ## Conclusion
 This project provides a simple yet engaging way to customize the cursor experience on a webpage. It is ideal for creative websites, interactive web applications, or as a learning exercise for front-end development.
 
+=======
+# Cursor-Animation
+Cursor Animation is a simple web project using HTML, CSS, and JavaScript to replace the default mouse cursor with a glowing, animated one. It follows the mouse, disappears after 3 seconds of inactivity, and reappears when the user moves the mouse again. It's responsive and fully customizable.
+>>>>>>> 268afcf137d474dceb7c86a1682ed38a333336ae
